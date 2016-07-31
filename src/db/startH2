@@ -1,0 +1,4 @@
+#!/bin/sh
+DIR=$(dirname "$0")
+java -cp "$DIR/h2-1.4.188.jar:$H2DIRVERS:$CLASSPATH" org.h2.tools.Console "$@"
+

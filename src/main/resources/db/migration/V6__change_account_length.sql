@@ -1,0 +1,1 @@
+ALTER TABLE tb_employee ALTER  COLUMN account VARCHAR(18)

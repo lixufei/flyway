@@ -1,0 +1,1 @@
+DELETE  FROM tb_department WHERE id = 1
